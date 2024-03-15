@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">GeoQuiz</string>
+    <string name="question_text">ලෝකයේ කුඩාම රට වතිකානුවයි!.</string>
+    <string name="true_button">ඔව්</string>
+    <string name="false_button">නෑ</string>
+    <string name="correct_toast">හරි!</string>
+    <string name="incorrect_toast">වැරදි!</string>
+    <string name="messageSent_button">යවන්න</string>
+    <string name="getContactDetails_button">සම්බන්ධතා</string>
+</resources>

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">GeoQuiz</string>
+    <string name="question_text" translatable="false">The Vatican City is the smallest city in the world.</string>
+    <string name="true_button" translatable="false">True 👍</string>
+    <string name="false_button" translatable="false">False 👎</string>
+    <string name="correct_toast" translatable="false">Correct 👌</string>
+    <string name="incorrect_toast" translatable="false">Incorrect!</string>
+    <string name="messageSent_button" translatable="false">Sent 📡</string>
+    <string name="getContactDetails_button" translatable="false">Contacts 🔎</string>
+</resources>
